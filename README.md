@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/Prinshi1234/Prinshi1234/blob/main/1234.jpeg)
+![logo](https://github.com/Prinshi1234/Prinshi1234/blob/main/12345.jpg)
 <h1 align="center">Hi 👋, I'm Prinshi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
